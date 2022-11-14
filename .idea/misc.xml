@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/drawable/background_back_button.xml" value="0.2375" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/drawable/background_genre_chip.xml" value="0.2375" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/drawable/background_play_trailer.xml" value="0.2375" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/drawable/background_rate_movie.xml" value="0.16" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/drawable/background_release_year.xml" value="0.2375" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/drawable/gradient_actor.xml" value="0.1295" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/drawable/gradient_banner.xml" value="0.1295" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/drawable/ic_baseline_play_arrow_black_24_dp.xml" value="0.1295" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/layout/activity_movie_details.xml" value="0.25" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/layout/view_holder_actors.xml" value="0.35" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/layout/view_holder_best_actors.xml" value="0.25" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/layout/view_holder_movie.xml" value="0.365625" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/layout/view_holder_showcase.xml" value="0.5" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/layout/view_item_banner.xml" value="0.1" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/layout/view_pod_actor_list.xml" value="0.35" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/layout/view_pod_movie_list.xml" value="0.33" />
+        <entry key="..\:/Users/Light Idea/AndroidStudioProjects/PADC/TheMovieApp/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
