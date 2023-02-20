@@ -13,9 +13,6 @@ import com.padc.themovieapp.data.models.MovieModelImpl
 import com.padc.themovieapp.data.vos.ActorVO
 import com.padc.themovieapp.data.vos.GenreVO
 import com.padc.themovieapp.data.vos.MovieVO
-import com.padc.themovieapp.mvp.presenters.MainDetailsPresenterImpl
-import com.padc.themovieapp.mvp.presenters.MovieDetailsPresenter
-import com.padc.themovieapp.mvp.views.MovieDetailsView
 import com.padc.themovieapp.mvvm.MovieDetailsViewModel
 import com.padc.themovieapp.utils.IMAGE_BASE_URL
 import com.padc.themovieapp.viewpods.ActorListViewPod

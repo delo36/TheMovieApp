@@ -24,9 +24,6 @@ import com.padc.themovieapp.delegates.BannerViewHolderDelegate
 import com.padc.themovieapp.delegates.MovieViewHolderDelegate
 import com.padc.themovieapp.delegates.ShowcaseViewHolderDelegate
 import com.padc.themovieapp.dummy.dummyDataList
-import com.padc.themovieapp.mvp.presenters.MainPresenter
-import com.padc.themovieapp.mvp.presenters.MainPresenterImpl
-import com.padc.themovieapp.mvp.views.MainView
 import com.padc.themovieapp.mvvm.MainViewModel
 import com.padc.themovieapp.viewpods.ActorListViewPod
 import com.padc.themovieapp.viewpods.MovieListViewPod
